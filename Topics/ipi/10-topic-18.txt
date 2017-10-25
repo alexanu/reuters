@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Japan-February-indust   03-27 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February industrial production rose 0.3 pct (0.5 pct January drop) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

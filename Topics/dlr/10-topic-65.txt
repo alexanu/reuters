@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-swiss-national-bank-s   03-27 0009</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> swiss national bank says bought dollars against yen
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

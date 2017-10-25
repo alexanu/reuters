@@ -1,0 +1,18 @@
+
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-DEAN-FOODS-CO-&lt;DF>-RA   03-27 0023</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEAN FOODS CO &lt;DF> RAISES DIVIDEND</TITLE>
+<DATELINE>    CHICAGO, March 27 -
+    </DATELINE><BODY>Qtly div 13-1/2 cts vs 11-1/2 cts prior
+    Pay June 15
+    Record May 22
+
+ Reuter
+&#3;</BODY></TEXT>
+

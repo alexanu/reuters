@@ -1,0 +1,5 @@
+Novell Inc said introduced series new networking product extend NetWare local area network ( LAN ) communication .
+One new product , asynchronous bridge , connects multiple remote NetWare LANs local local NetWare LAN telephone line using high-speed modem , Novell said .
+Novell also said introduced new asynchronous gateway provides NetWare LANS access resource minicomputer Digital Equipment Corp & lt ; DEC > , Data General & lt ; DGN > , Hewlett-Packard & lt ; HWP > , Prime Computer Inc & lt ; PRM > Tandem Computers & lt ; TDM > .
+Novell also said CXI Inc unit introduced series new International Business Machines Corp & lt ; IBM > gateway product including 40-session coaxial gateway software , variety LAN workstation gateway sofware new software PCOX gateway .
+Reuter & # 3 ; 

@@ -1,0 +1,19 @@
+
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-NEW-COCOA-BUFFER-STOC   03-27 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCOA BUFFER STOCK RULES EFFECTIVE IMMEDIATELY</TITLE>
+<DATELINE>    LONDON, March 27 - </DATELINE><BODY>The cocoa buffer stock rules just
+decided by the International Cocoa Organization, ICCO, council
+will take effect immediately, delegates said.
+    That means the buffer stock manager is likely to begin
+buying cocoa within two or three weeks, after organizing
+communication systems and assessing the market, they said.
+ Reuter
+&#3;</BODY></TEXT>
+

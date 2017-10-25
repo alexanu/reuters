@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Japan-February-trade   03-27 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February trade surplus 8.14 billion dlrs (January 5.70 billion surplus)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

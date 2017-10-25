@@ -1,0 +1,32 @@
+International Business Machines Corp said introduced four new personal computer , including top line unit based powerful Intel Corp & lt ; INTC > 80386 chip .
+The company said new PC 's compatible existing IBM PC application .
+The new computer , mark first major overhaul IBM PC line since company entered business 1981 , include PC based Intel Corp & lt ; INTC > 80386 microprocessor , making powerful IBM PC date .
+Also included Intel 8086 based system IBM said two half time fast IBM PC XT model .
+IBM also introduced two new version PC AT system .
+These use Intel 80286 chip running 50 pct faster existing IBM PC AT .
+The new line PC 's , IBM call Personal System/2 , us 3.5 inch diskette instead conventional 5.25 inch diskette .
+The company said smaller diskette store two four time data larger diskette , typically handle 360 kilobyte data .
+IBM said new PC AT 's 80386-based PC use new IBM-designed 32-bit data bus .
+This carry data internally within PC .
+The company said new bus offer processing power two three-and-a-half time existing IBM PC AT .
+IBM said new PC 's run new operating system , called IBM DOS Version 3.3 , available .
+The company also said offer second operating system , called IBM Operating System/2 , developed jointly Microsoft Corp & lt ; MSFT > .
+This available stage , beginning first quarter 1988 .
+IBM said Operating System/2 first time give IBM PC user ability access multiple application large program amount data .
+IBM said said Personal System/2 Model 30 , Intel 8-megahertz ( MHz ) 8086-based system , available list price 1,695 dlrs two diskette drive 2,295 dlrs one diskette one 20-megabyte fixed disk drive .
+The unit weighs 17 pound .
+It said 8087 math coprocessor run eight MHz rate 8086 available .
+The company said Personal System/2 Model 50 , Intel 10 MHz 80286-based desktop system , available cost 3,595 dlrs .
+IBM said said Personal System/2 Model 60 , also Intel 10 MHz 80286-based system , floor-standing system available two configuration .
+This system , scheduled availability second quarter , list 5,295 dlrs 44MB fixed disk drive 6,295 dlrs 70MB fixed disk drive .
+The company said Personal System/2 80 powerful member new family PC 's , using Intel 80386-based mocroprocessor .
+The floor-standing machine available three configuration .
+IBM said one Model 80 configuration , scheduled July availability cost 6,995 dlrs , run 16 MHz , contains 1MB memory feature 44MB fixed disk drive .
+A second configuration , also scheduled July 8,495 dlrs , run 16 MHz 2MB memory 70MB fixed disk drive .
+The company said third Model 80 scheduled fourth quarter feature IBM-designed one-megabit memory technology .
+Expected cost 10,995 dlrs , run 20 MHz feature 2MB memory 115 MB fixed disk drive .
+IBM said Personal System/2 incorporates enhanced integrated graphic function including significantly improved text , expanded color 256 palette 256,000 , sharper business graphic .
+The company said Models 50 , 60 80 Video Graphics Array support 640 x 480 x 16 color graphic mode 720 x 400 x 16 color text mode .
+It also support new 320 x 200 x 256 color mode .
+With addition new advanced graphic feature , IBM said , 1024 x 768 addressability also obtained .
+Reuter & # 3 ; 

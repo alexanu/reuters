@@ -1,0 +1,7 @@
+Tandem Computers Inc said introduced 84-gigabyte write-once , read-many-times optical disk library subsystem called 5200 Optical Storage Facility use Tandem NonStop computer system VLX , TXP , NonStop II , EXT25 EXT10 .
+The company said facility contains two read/write disk drive , formatter automatic changer 32 disk cartridge , holding 2.62 gigabyte data .
+It said 52oo provides average access time 250 millisecond data optical disk cartridge already mouinted 17 second cartridge must changed .
+Tandem said delivery start quarter .
+It said 5200 priced 155,000 dlrs .
+It said software initial license fee 5,300 dlrs monthly license fee 100 dlrs NonStop VLX , TXP , NonStop II EXT25 system fee 2,650 dlrs 50 dlrs respectively EXT10 system .
+Reuter & # 3 ; 

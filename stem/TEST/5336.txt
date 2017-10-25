@@ -1,0 +1,9 @@
+Sun Microsystems Co 's TOPS subsidiary said upgraded version NetPrint LAN -- local area network -- software package available early next month .
+The company said version 2.0 NetPrint available November 10 suggested retail price 189 dlrs .
+NetPrint software enables International Business Machines Corp & lt ; IBM > personal computer compatibles print directly Apple Computer Inc & lt ; AAPL.O > LaserWriters PostScript compatible printer AppleTalk network .
+TOPS said begin shipping version 2.0 LAN software package providing file sharing among Apple macintosh computer , IBM PCs compatibles , UNIX-based system retailer November six .
+It said TOPS/DOS version 2.0 , suggested retail price 189 dlrs , allows PCs network access dedicated printer fomerly availabe one user .
+The TOPS/Macintosh version 2.0 , also listed 189 dlrs , introduces `` remember '' function allows user make file available network access remote file automatically .
+In addition , software fully compatible Apple File Protocol application .
+Both LAN 's include FlashTalk , recently announced PC-to-PC communication architecture operates three-times TOPS' AppleTalk speed slated sell 239 dlrs .
+Reuter & # 3 ; 

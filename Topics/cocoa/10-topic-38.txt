@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Cocoa-Council-agrees   03-27 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Cocoa Council agrees new buffer stock  rules - delegates
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

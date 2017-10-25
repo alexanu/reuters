@@ -1,0 +1,4 @@
+Digital Communications Associates Inc said unveiled two new product allow personal computer directly attached mainframe computer communicate host computer .
+The IRMAremote Hayes AutoSync , cost 395 dlrs , software product allows International Business Machines Corp & lt ; IBM > personal computer communicate host computer via dial-up telephone line .
+The IRMAremote X.25 , costing 1,795 dlrs , us hardware software allows personal computer communicate host computer via X.25 packet switching network .
+Reuter & # 3 ; 

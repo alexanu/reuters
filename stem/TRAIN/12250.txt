@@ -1,0 +1,4 @@
+3Com Corp said support International Business Machines Corp 's personal System/2 series computer , provide network operating software interface .
+The software interface allow new machine integrated existing 3System workgroup system , 3Com said .
+3Com said modifying 3+ network software work DOS 3.3 , ensuring campatibility current Personal Snd IBM 's new Token Ring adaps Micro Channel architecture .
+Reuter & # 3 ; 

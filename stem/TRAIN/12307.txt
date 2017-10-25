@@ -1,0 +1,12 @@
+Motorola Inc said Microcomputer Division unveiled Model 2616 departmental computer , one several system company 's new VME Delta Series product line , well MVME134 single board computer MVME135 multiprocessor board .
+Motorola said Model 2616 32-bit system containing 12-slot VME-bus chassis open-system flexibility unlimited end-user application option .
+The company said Model 2616 available immediately price ranging 14,000 dlrs 25,000 dlrs .
+Motorola said VME Delta Series system packaged system built around open system architecture , industry standard processor software including VMEbus , MC68020 microprocessor American Telephone Telegraph 's & lt ; T > Unix System V operating system .
+The company said microcomputer division also introduced MVME134 , single board computer targeted OEM System integrator market .
+Motorola said MVME134 , VME module 32-bit microcomputer , provides cost effective engine UNIX application priced 2,250 dlrs June delivery .
+The company also unveiled new MVME135 board , said , along companion MVME136 , 32-bit monoboard microcomputer multiprocessor market .
+Motorola said board first product market using Motorola 's new MVSB2400 gate array , low power , user-programmable , bipolar gate array .
+Motorola said MVME135 MVME136 , VMEmodule 32-bit monoboard microcomputer , available , priced 3,934 dlrs 4,256 dlrs , respectively .
+It added MVME135-1 , 32-bit monoboard also available price 4,256 dlrs .
+Motorola said MVSB2400 list 300 dlrs available delivery July .
+Reuter & # 3 ; 

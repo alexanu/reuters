@@ -1,0 +1,11 @@
+In order accomodate shift settlement procedure option Standard Poor 's 500 stock index exchange announced last month , Chicago Board Options Exchange ( CBOE ) said created new class option S P contract & lt ; SPX > .
+The CBOE 's new contract needed coincide change settlement procedure Chicago Mercantile Exchange ( CME ) made S P 500 future option contract implemented expiration June contract .
+Settlement CBOE 's new option contract based opening price S P 500 index expiraton day , settlement current contract based closing price index .
+`` CBOE n't think opening settlement solution expiration effect , exposure investor market unanticipated risk arising different settlement time option future , '' CBOE chairman Alger Chapman said release .
+`` We 're taking step give investor choice settlement time meet hedging need , '' Chapman said .
+The new contract necessary Options Clearing Corp ( OCC ) allow member exchange modify term outstanding contract , CBOE said .
+The new contract satisfy need customer require option contract based opening price index , CBOE said .
+The opening settlement contract trade parallel closing settlement contract long CME maintains opening settlement procedure S P 500 future contract , CBOE spokesperson said .
+However , noted customer preference one type settlement procedure eventually determine contract prevail .
+The opening settlement contract trade March , June , September , December quarterly expiration cycle listed soon OCC revise contract prospectus , possible April , exchange said .
+Reuter & # 3 ; 

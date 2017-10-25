@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Bank-of-France-buying   03-27 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bank of France buying dollars for yen - banking sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

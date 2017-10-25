@@ -1,0 +1,15 @@
+
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-******   03-27 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank bought dollars against yen in Frankfurt - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>
+

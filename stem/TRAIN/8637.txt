@@ -1,0 +1,16 @@
+Gould Inc said introducing new generation high performance mini supercomputer intensive engineering application .
+Called NPL , mini supercomputer use Gould 's UTX/32 operating system , compatible multi-processor extension UNIX operating system consisting complete AT T System V Berkeley BSD 4.3 environment , company official said teleconference .
+`` The introduction NPL family mini supercomputer , far Gould 's significant computer line developed date , '' chairman James McDonald said .
+Patrick Rickard , computer system president , said expects sale NPL family computer account 20 pct division 's revenue first year introduction , increase 80 pct revenue five year .
+Computer operation accounted one third 300 mln dlrs Gould 's total revenue 1986 908.8 mln dlrs , company spokesman said .
+The NP1 , first series new family , us open system architecture , including parallel high speed vector processing `` massive '' memory achieve supercomputing capability , Gould officer said .
+The NP1 family form foundation new system expected brought market 1990s , McDonald said .
+The computer expected application science engineering , aerospace defense extend area medical science , Rick Baron , senior director marketing development said .
+Gould said priced packaged NP1 cost provide power advantage traditional supercomputer fraction cost .
+The NP1 product line includes several model priced 395,000 dlrs 2.9 mln dlrs , Gould official said adding company already signed order eight NP1 system .
+The low-end NP1 model available 1987 third quarter high-end available 1988 first quarter , said .
+According Gould official , NP1 cost 50 mln dlrs develop company plan spend 100 150 mln develop rest family line .
+Between 1995 , company expects ship two three billion dlrs NP1 mini supercomputer .
+Offering 96 mln Whetstone instruction per second 320 mln floating point operation per second , largest new system , Model 480 , incorporates four billion byte physical memory , said .
+The NP1 family connectability compatability IBM Xerox computer , company spokesman said .
+Reuter & # 3 ; 

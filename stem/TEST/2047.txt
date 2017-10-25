@@ -1,0 +1,37 @@
+The supercomputer industry getting crowded handful startup company huge Japanese manufacturer compete right apply label '' world 's fastest machine '' product .
+Currently 250 supercomputer installed around world , many believe situation change dramatically highly specialized extremely expensive machine move research laboratory found today commerical application .
+`` It commercial supercomputing ... hold promise young industry 's handful vendor , '' said Gary Smaby , supercomputer analyst Piper Jaffray Hopwood .
+These commercial application , said , could propel annual sale supercomputer 850 mln dlrs 1986 2.4 billion 1990 .
+For year two company , Cray Research Inc & lt ; CYR > Control Data Corp & lt ; CDA > virtually option customer seeking buy supercomputer .
+But last three year number new company announced supercomputer using innovative technology , industry finally expanded enough hold first World Supercomputer Exhibition Santa Clara last month .
+Also last month two small company , ETA Systems Inc ( subsidiary Control Data ) Thinking Machines Corp laid claim world 's fastest computer joint venture Honeywell Inc & lt ; HON > Japan 's NEC Corp & lt ; NIPN.T > Honeywell-NEC Supercomputers Inc , announced entrance U.S. market .
+All three aiming industry leader Cray Research Inc , hold 60 pct market .
+This week , Cray plan make joint announcement Digital Equipment Corp , & lt ; DEC > already world 's largest minicomputer maker , product work company ' computer , expanding market opportunity super mini even .
+Supercomputers initially designed complex application , predicting worldwide weather pattern , fusion energy research military defense weapon design .
+They built speed , standard business function payroll processing .
+The fastest supercomputer perform billion calculation per second , greater combined power 100,000 personal computer .
+They also carry stratospheric price tag one mln 20 mln dlrs , Cray 's revenue could reach 600 mln dlrs last year even though shipped 36 new 10 used supercomputer , level would spell starvation standard computer company .
+But speaker supercomputer exhibition emphasized host new application increase total industry shipment 150 system year end decade .
+Most commercial customer supercomputer use machine simulate physical process , flow air aircraft wing , design testing work .
+But financial institution , particularly Wall Street brokerage house , considered next major buyer supercomputer try recognize change stock trading pattern faster competitor .
+Two firm , Goldman Sachs Co Morgan Stanley Co , using superminicomputers , hybrid machine faster minicomputer cheaper super , create financial model stock bond market .
+Analysts said matter time actual supercomputer found Wall Street .
+One reason shift commercial application supercomputer coming price new technology provide greater speed lower cost Cray Control Data behemoth .
+Both ETA Thinking Machines Systems use technology called parallel processing , number internal processor work together solve problem .
+With system problem broken different segment assigned different processor .
+By contrast , standard computer solve problem one instruction time , sequentially .
+The ETA system , ETA 10 , eventually use many eight parallel processor capable processing 8.32 billion operation per second .
+However , first ETA 10 , installed Florida State University , two processor , later expanded four .
+ETA president Lloyd Thorndyke said ETA 10 represents drastic change architecture parent company Control Data 's Cyber system .
+Priced 5.5 mln 22 mln dlrs , ETA 10 contains 240 chip processing unit , built onto board size standard newspaper section .
+Each board contains equivalent 1.5 mile embedded wiring .
+It took ETA 3-1/2 year develop supercomputer Thorndyke said expects much faster development time frame futre , ETA competitor .
+`` We 're leapfrog business took last leap , '' said .
+Thinking Machines also claim world 's fastest computer way true .
+Its Connection Machine Model CM-2 process 2.5 billion instruction per second , specialized architecture meant certain specific application .
+The one mln five mln dlr Connection Machine us technology called `` massive parallism .
+'' It contains 64,000 processor crammed five foot cube .
+The processor work problem , breaking minute bit .
+It ideal tool application many unpredicatble variable , according Brian Boyle , analyst Novon Research Group .
+`` The unpredictable thing , Thinking Machine appropriate , '' said .
+Reuter & # 3 ; 

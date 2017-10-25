@@ -1,0 +1,15 @@
+Advanced Micro Devices Inc said developing set five computer chip use digital communication system .
+The company said new chip support integrated service digital network , ISDN , international standard digital voice data communication .
+Advanced Micro also said signed licensing agreement American Telephone Telegraph Co & lt ; T > ATT provided certain digital communication specification .
+Today 's announcement follows company 's introduction last week 32-bit microprocessor .
+`` We reached key point development communication device implement worldwide ISDN standard , '' said John East , group vice president Advanced Micro 's logic business .
+He said company 's new computer chip , available end year , boost acceptance implementation ISDN service .
+The chip set includes five separate device 100 unit quantity .
+The device priced 7.25 dlrs 29.25 dlrs .
+Similar chip set ISDN communication already sold number company including INTEL Corp & lt ; INTC > , ATT , Rockwell International & lt ; ROK > joint venture Northern Telecom LTd & lt ; NT > Motorola Inc & lt ; MOT > .
+The ISDN standard , portion still defined , provide simultaneous transmission voice , data video .
+Advanced Micro chip set used equipment private branch exchange desktop computer .
+The company also said developing ISDN protocol controller .
+It said controller connect directly current line ISDN device .
+The device support several digital communication protocol , including one International Business Machines Corp & lt ; IBM > ATT .
+Reuter & # 3 ; 
